@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2017\Projects\ShoppingList\ShoppingList\bin\Debug\ShoppingList.exe.config
+c:\users\user\documents\visual studio 2017\Projects\ShoppingList\ShoppingList\bin\Debug\ShoppingList.exe
+c:\users\user\documents\visual studio 2017\Projects\ShoppingList\ShoppingList\bin\Debug\ShoppingList.pdb
+c:\users\user\documents\visual studio 2017\Projects\ShoppingList\ShoppingList\bin\Debug\ShoppingList.xml
+c:\users\user\documents\visual studio 2017\Projects\ShoppingList\ShoppingList\obj\Debug\ShoppingList.vbprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\ShoppingList\ShoppingList\obj\Debug\ShoppingList.Form1.resources
+c:\users\user\documents\visual studio 2017\Projects\ShoppingList\ShoppingList\obj\Debug\ShoppingList.Resources.resources
+c:\users\user\documents\visual studio 2017\Projects\ShoppingList\ShoppingList\obj\Debug\ShoppingList.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2017\Projects\ShoppingList\ShoppingList\obj\Debug\ShoppingList.exe
+c:\users\user\documents\visual studio 2017\Projects\ShoppingList\ShoppingList\obj\Debug\ShoppingList.xml
+c:\users\user\documents\visual studio 2017\Projects\ShoppingList\ShoppingList\obj\Debug\ShoppingList.pdb
